@@ -1,0 +1,4 @@
+Debug filter=lfs diff=lfs merge=lfs -text
+OpenGL_DrawSphere filter=lfs diff=lfs merge=lfs -text
+OpenGL_DrawSphere.sdf filter=lfs diff=lfs merge=lfs -text
+OpenGL_DrawSphere.sln filter=lfs diff=lfs merge=lfs -text
